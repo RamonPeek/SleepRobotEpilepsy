@@ -1,0 +1,4 @@
+Possible improvements:
+- Count to another number than 10, configurable by user (TTS via IBM Watson or custom recordings)
+- Make thresholds configurable for the user.
+- Use a neural network with inputs such as pitch, interval between breaths and volume to get a better indication of when a seizure is starting.
